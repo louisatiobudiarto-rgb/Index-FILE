@@ -1,0 +1,74 @@
+h4{
+    color: #140b59ef;
+    font-size: 30px;
+    padding: 10px 30px;
+    background-color: rgb(163, 187, 243);
+    border-radius: 15px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+ol.fruits{
+    background-color: rgb(98, 162, 177);
+    padding:10px 50px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+
+ol.fruits li{
+    background: #cce5ff;
+    color: darkblue;
+    padding: 5px;
+    margin-left: 0;
+    margin-bottom: 8px;
+    border-radius: 10px;
+}
+
+ol.fruits li:hover{
+    background-color: rgb(92, 129, 238);
+}
+
+
+ol.ipsum{
+    background-color: rgb(53, 138, 157);
+    padding:10px 50px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    list-style-type: disc;
+}
+
+ol.ipsum li{
+    background: #9dc4ec;
+    color: darkblue;
+    padding: 5px;
+    margin-left: 0;
+    margin-bottom: 8px;
+    border-radius: 10px;
+}
+
+ol.ipsum li:hover{
+    background-color: rgb(8, 26, 81);
+    color: #9dc4ec;
+}
+
+ol.logo{
+    background-color: rgb(33, 95, 134);
+    padding:10px 50px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+
+ol.logo li{
+    background: #133c65;
+    color: rgb(202, 202, 250);
+    padding: 5px;
+    margin-left: 0;
+    margin-bottom: 8px;
+    border-radius: 10px;
+}
+
+ol.logo li:hover{
+    background-color: rgb(4, 13, 40);
+    color: #63a0dd;
+}
